@@ -1,4 +1,4 @@
-# Enterprise Resource Planning System
+# Sales Performace Dashboard
 
 ## Introduction
 A simplified interface for the **Sales Performance of an e-Commerce Website** is designed to visualize key parameters of business operations efficiently. 
